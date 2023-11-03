@@ -1,0 +1,49 @@
+#bodyhome{
+  text-align: justify;
+  background-image: url("immagini/sfondohome.jpg");
+  background-size: cover;
+}
+#bodydiscografia{
+  /*background-color: #c396d5;*/
+  text-align: justify;
+  background-image: url("immagini/sfondodischi.png");
+  background-size: contain;
+  background-repeat: repeat-y;
+  backdrop-filter: blur(5px);
+  color: white;
+  height: fit-content;
+  width: fit-content;
+}
+#bodyfestival{
+  /*background-color: #008080;*/
+  text-align: justify;
+  background-image: url("immagini/sfondo.jpg");
+  background-size: auto;
+  background-repeat: repeat;
+  color: white;
+}
+h1{
+  text-align: center;
+}
+h2{
+    text-align: center;
+  }
+h3{
+    text-align: center;
+  }
+h4{
+    text-align: left;
+  }
+.position-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.title-align{
+  text-align: left;
+}
+td {
+  padding-right: 40px; /* Imposta il padding tra le colonne */
+  text-align: justify;
+}
+
