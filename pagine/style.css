@@ -1,6 +1,6 @@
 #bodyhome{
   text-align: justify;
-  background-image: url("immagini/sfondohome.jpg");
+  background-image: url("immagini/sfondohome1.jpg");
   background-size: cover;
 }
 #bodydiscografia{
@@ -8,7 +8,7 @@
   text-align: justify;
   background-image: url("immagini/sfondodischi.jpg");
   background-size: cover;
-  backdrop-filter: blur(5px);
+  backdrop-filter: blur(10px);
   color: white;
 }
 #bodyfestival{
