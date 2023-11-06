@@ -6,13 +6,10 @@
 #bodydiscografia{
   /*background-color: #c396d5;*/
   text-align: justify;
-  background-image: url("immagini/sfondodischi.png");
-  background-size: contain;
-  background-repeat: repeat-y;
+  background-image: url("immagini/sfondodischi.jpg");
+  background-size: cover;
   backdrop-filter: blur(5px);
   color: white;
-  height: fit-content;
-  width: fit-content;
 }
 #bodyfestival{
   /*background-color: #008080;*/
@@ -46,4 +43,3 @@ td {
   padding-right: 40px; /* Imposta il padding tra le colonne */
   text-align: justify;
 }
-
