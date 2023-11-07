@@ -4,7 +4,6 @@
   background-size: cover;
 }
 #bodydiscografia{
-  /*background-color: #c396d5;*/
   text-align: justify;
   background-image: url("immagini/sfondodischi.jpg");
   background-size: cover;
@@ -12,7 +11,6 @@
   color: white;
 }
 #bodyfestival{
-  /*background-color: #008080;*/
   text-align: justify;
   background-image: url("immagini/sfondo.jpg");
   background-size: auto;
